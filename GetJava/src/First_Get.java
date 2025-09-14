@@ -7,6 +7,6 @@ public class First_Get {
         int c = a+b;
 
         System.out.println("Sum ( a + b ) = " + c);
-
+        System.out.println("Total sum = " + c);
     }
 }
